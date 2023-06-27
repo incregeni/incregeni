@@ -7,6 +7,8 @@
 
  <img align="right"  height="200" src="/assets/1.jpg" />
 
+### My skill sets. 🧰
+
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" height="35" width="35" alt="Solidity logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Ethereum_logo.svg" height="35" width="35" alt="Ethereum logo"  />
@@ -37,6 +39,8 @@
 </div>
 
 ###
+
+### **Contact Me**
 
 <div align="center">
   <a href="incregeni@gmail.com">
