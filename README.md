@@ -39,7 +39,7 @@
 ### **Contact Me**
 
 <div align="center">
-  <a href="incregeni@gmail.com">
+  <a href="mailTo:incregeni@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo"  />
   </a>
   <!-- <a href="https://discord.com/users/1071339596203446303" target="_blank">
